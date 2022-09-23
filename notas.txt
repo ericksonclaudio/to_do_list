@@ -1,0 +1,4 @@
+libreria moment.js  (para estandarizar fechas)
+
+cdnjs.com (buscar en google para enlazar nuestro proyecto)
+
